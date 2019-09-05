@@ -4,6 +4,3 @@
 4. prenta fyrstu þrjár tölurnar
 5. finna til leið til að prenta næstu þrjár tölur
 
-
-fyrst að fatt hvað sequencein er
-
